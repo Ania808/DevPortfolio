@@ -1,3 +1,1 @@
-"# colors-figma" 
-"# DevPortfolio" 
 "# DevPortfolio" 
